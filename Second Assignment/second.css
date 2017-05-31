@@ -1,0 +1,46 @@
+.red {
+	position: absolute;
+	top: 0px;
+	left:0px;
+	min-width: 100%;
+	max-width: 100%;
+	min-height: 10%;
+	background-color: red;
+}
+
+.blue {
+	position: absolute;
+	top: 10%;
+	left:0px;
+	min-width: 33.33%;
+	min-height: 80%;
+	background-color: blue;
+}
+
+.purple {
+	position: absolute;
+	top: 10%;
+	left:33.33%;
+	min-width: 33.33%;
+	min-height: 80%;
+	background-color: purple;
+}
+
+.yellow {
+	position: absolute;
+	top: 10%;
+	left:66.66%;
+	min-width: 33.33%;
+	min-height: 80%;
+	background-color: yellow;
+}
+
+.green {
+	position: absolute;
+	bottom: 0px;
+	left:0px;
+	min-width: 100%;
+	max-width: 100%;
+	min-height: 10%;
+	background-color: green;
+}
