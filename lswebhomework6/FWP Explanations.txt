@@ -1,0 +1,7 @@
+Functions:  Functions are a way in javascript to perform a set of instructions and allow the user to repeat those instructions later without having to type them all over again.
+
+Parameters: Parameters are the place holders (variables) for arguements when defining functions in javascript.
+
+Arguements: Arguements are the actual information that functions use to get their results.
+
+If statements:  If statements are a way of checking information for specific conditions.
