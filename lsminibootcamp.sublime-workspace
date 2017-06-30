@@ -1,0 +1,372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nav-",
+				"navbar-right\t(post.html)"
+			],
+			[
+				"navbar-c",
+				"navbar-custom\t(post.html)"
+			],
+			[
+				"nav-to",
+				"navbar-fixed-top\t(post.html)"
+			],
+			[
+				"cont",
+				"container-fluid\t(post.html)"
+			],
+			[
+				"list",
+				"list-inline\t(post.html)"
+			],
+			[
+				"list-st",
+				"list-style\t(bootstrap.css)"
+			],
+			[
+				"list-",
+				"list-inline\t(post.html)"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"style",
+				"stylesheet\t(post.html)"
+			],
+			[
+				"cle",
+				"clean-blog.min.css\t(post.html)"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"ship",
+				"shipName"
+			],
+			[
+				"weaponsStatus",
+				"weaponsStatusMessage"
+			],
+			[
+				"background",
+				"background-clip"
+			],
+			[
+				"align-",
+				"align-content"
+			],
+			[
+				"last_",
+				"last_modified\t(posts_controller.rb)"
+			],
+			[
+				"when",
+				"when_posted\t(posts_controller.rb)"
+			],
+			[
+				"zip",
+				"zip_code\t(user.rb)"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"act",
+				"actions\t(new.html.erb)"
+			],
+			[
+				"btn",
+				"btn-default\t(new.html.erb)"
+			],
+			[
+				"application",
+				"application.css\t(application.css)"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"com",
+				"comments\t(_comments.html.erb)"
+			],
+			[
+				"flex",
+				"flex-direction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/James/Desktop/LS/mini-bootcamp"
+	],
+	"file_history":
+	[
+		"/C/Users/James/Desktop/LS/mini-bootcamp/WebAssignment2/MyBlog.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/WebAssignment3/lswebhomework3/README.md",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/WebAssignment2/css/blog-custom.css",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/WebAssignment2/post.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/startbootstrap-clean-blog-gh-pages/vendor/bootstrap/css/bootstrap.css",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/WebAssignment2/index.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/WebAssignment1/First Assignment/first-layout.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/WebAssignment2/blog-custom.css",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/Third Assignment/third.css",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/WebAssignment2/MyNewBlog.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/Third Assignment/third-layout.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/First Assignment/first.css",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/First Assignment/first-layout.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/Second Assignment/second-layout.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/Second Assignment/second.css",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/first-layout.html",
+		"/C/Users/James/Desktop/LS/mini-bootcamp/first.css",
+		"/C/Users/James/Desktop/JCS Mirage/xController_MainComputer.lsl",
+		"/J/wamp/www/ds/style/tpsMain.css",
+		"/J/wamp/www/simpleblog/app/views/layouts/application.html.erb",
+		"/J/wamp/www/tps/app/controllers/projects_controller.rb",
+		"/J/wamp/www/tps/app/controllers/portfolio_controller.rb",
+		"/J/wamp/www/tps/app/controllers/home_controller.rb",
+		"/J/wamp/www/tps/app/controllers/blog_controller.rb",
+		"/J/wamp/www/tps/app/views/blog/blog.html.erb",
+		"/J/wamp/www/tps/app/views/projects/projects.html.erb",
+		"/J/wamp/www/tps/app/views/portfolio/portfolio.html.erb",
+		"/J/wamp/www/tps/config/routes.rb",
+		"/J/wamp/www/tps/app/controllers/application_controller.rb",
+		"/J/wamp/www/tps/app/views/home/index.html.erb",
+		"/J/wamp/www/tps/app/assets/stylesheets/home.scss",
+		"/J/wamp/www/tps/app/views/layouts/application.html.erb",
+		"/J/wamp/www/tps/app/assets/stylesheets/darkly-bootstrap.min.css",
+		"/J/wamp/www/tps/config/initializers/assets.rb",
+		"/J/wamp/www/tps/app/views/home.html.erb",
+		"/J/wamp/www/tps/db/schema.rb",
+		"/J/wamp/www/tps/Gemfile",
+		"/J/wamp/www/tps/app/models/post.rb",
+		"/J/wamp/www/tps/app/models/project.rb",
+		"/J/wamp/www/tps/app/models/user.rb",
+		"/J/wamp/www/tps/db/migrate/20170118143919_create_posts.rb",
+		"/J/wamp/www/tps/db/migrate/20170118144013_create_projects.rb",
+		"/J/wamp/www/tps/db/migrate/20170118143835_create_users.rb",
+		"/J/wamp/www/cas/Gemfile",
+		"/J/wamp/www/cas/app/controllers/user_controller.rb",
+		"/J/wamp/www/simpleblog/app/views/devise/registrations/new.html.erb",
+		"/J/wamp/www/simpleblog/app/models/user.rb",
+		"/J/wamp/www/simpleblog/app/views/users/registrations/new.html.erb",
+		"/J/wamp/www/simpleblog/app/assets/stylesheets/application.css",
+		"/J/wamp/www/simpleblog/app/views/devise/confirmations/new.html.erb",
+		"/J/wamp/www/simpleblog/Gemfile",
+		"/J/wamp/www/simpleblog/app/controllers/application_controller.rb",
+		"/J/wamp/www/simpleblog/db/migrate/20170112161916_devise_create_users.rb",
+		"/J/wamp/www/simpleblog/config/routes.rb",
+		"/J/wamp/www/simpleblog/app/controllers/posts_controller.rb",
+		"/J/wamp/www/simpleblog/app/views/posts/show.html.erb",
+		"/J/wamp/www/simpleblog/app/views/devise/sessions/new.html.erb",
+		"/J/wamp/www/simpleblog/db/migrate/20170112161909_devise_create_models.rb",
+		"/J/wamp/www/simpleblog/config/initializers/devise.rb",
+		"/J/wamp/www/simpleblog/app/assets/stylesheets/pages.scss",
+		"/J/wamp/www/simpleblog/app/views/comments/_comments.html.erb",
+		"/J/wamp/www/simpleblog/app/views/comments/_form.html.erb",
+		"/J/wamp/www/simpleblog/app/assets/stylesheets/posts.scss",
+		"/J/wamp/www/simpleblog/app/controllers/comments_controller.rb",
+		"/J/wamp/www/simpleblog/app/models/post.rb",
+		"/J/wamp/www/simpleblog/app/views/posts/edit.html.erb",
+		"/J/wamp/www/simpleblog/app/views/posts/new.html.erb",
+		"/J/wamp/www/simpleblog/app/controllers/pages_controller.rb",
+		"/J/wamp/www/simpleblog/app/views/posts/index.html.erb",
+		"/J/wamp/www/simpleblog/app/models/comment.rb",
+		"/J/wamp/www/simpleblog/app/views/pages/about.html.erb",
+		"/J/wamp/www/simpleblog/db/migrate/20170111182245_create_posts.rb",
+		"/J/wamp/www/blog/app/views/articles/new.html.erb",
+		"/J/wamp/www/blog/app/controllers/articles_controller.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"subheading",
+			".subheading",
+			"li>a:hover",
+			"ul:hover",
+			"li :hover",
+			"li:hover",
+			"navbar:hover",
+			":hover",
+			"brand",
+			"Remember me",
+			"scss"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lsminibootcamp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
